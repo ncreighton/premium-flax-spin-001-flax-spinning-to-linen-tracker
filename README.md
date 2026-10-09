@@ -1,0 +1,2 @@
+# premium-flax-spin-001-flax-spinning-to-linen-tracker
+Lose track of fiber weights, spinning hours, and linen yields between retting and finished cloth? The Flax Spinning to Linen Tracker transforms scattered notes into a complete production dashboard—so you know exactly where each batch stands from seed to weaving.  This Notion template eliminates the chaos of manual flax-to-linen tracking by centrali
